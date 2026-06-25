@@ -7,6 +7,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0704-binary-search) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2965-find-missing-and-repeated-values](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -29,6 +30,7 @@
 | [0035-search-insert-position](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0035-search-insert-position) |
 | [0278-first-bad-version](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0704-binary-search) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Counting
 |  |
@@ -38,4 +40,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0278-first-bad-version) |
+## Sorting
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
