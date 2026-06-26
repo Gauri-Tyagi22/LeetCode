@@ -25,6 +25,7 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0069-sqrtx) |
 | [2965-find-missing-and-repeated-values](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -36,6 +37,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
