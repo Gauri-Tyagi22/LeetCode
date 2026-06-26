@@ -13,6 +13,7 @@
 | [0162-find-peak-element](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2965-find-missing-and-repeated-values](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -42,6 +43,7 @@
 | [0278-first-bad-version](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0278-first-bad-version) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Counting
