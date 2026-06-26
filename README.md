@@ -25,6 +25,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0069-sqrtx) |
 | [2965-find-missing-and-repeated-values](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
@@ -60,4 +61,8 @@
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
