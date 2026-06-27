@@ -17,6 +17,7 @@
 | [0875-koko-eating-bananas](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -57,6 +58,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -88,4 +90,8 @@
 |  |
 | ------- |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
+## Greedy
+|  |
+| ------- |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 <!---LeetCode Topics End-->
