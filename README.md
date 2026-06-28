@@ -23,6 +23,7 @@
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2270-number-of-ways-to-split-array](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2270-number-of-ways-to-split-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2965-find-missing-and-repeated-values](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -97,6 +98,7 @@
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2270-number-of-ways-to-split-array](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2270-number-of-ways-to-split-array) |
 ## Greedy
 |  |
 | ------- |
