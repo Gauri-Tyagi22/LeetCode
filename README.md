@@ -90,6 +90,7 @@
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Sliding Window
@@ -119,4 +120,8 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
