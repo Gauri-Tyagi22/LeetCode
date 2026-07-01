@@ -37,6 +37,7 @@
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2965-find-missing-and-repeated-values](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
@@ -88,6 +89,7 @@
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Interactive
@@ -110,6 +112,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0796-rotate-string](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -156,4 +159,8 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0796-rotate-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
