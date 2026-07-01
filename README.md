@@ -125,6 +125,7 @@
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2278-percentage-of-letter-in-string](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2278-percentage-of-letter-in-string) |
 ## Sliding Window
 |  |
 | ------- |
