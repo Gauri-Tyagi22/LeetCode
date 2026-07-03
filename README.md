@@ -126,6 +126,7 @@
 | [0050-powx-n](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## String
 |  |
 | ------- |
@@ -178,6 +179,7 @@
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Two Pointers
@@ -185,6 +187,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Trie
@@ -213,6 +216,7 @@
 | [0092-reverse-linked-list-ii](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0203-remove-linked-list-elements](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
