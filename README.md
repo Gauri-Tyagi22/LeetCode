@@ -191,6 +191,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -220,6 +221,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0142-linked-list-cycle-ii) |
