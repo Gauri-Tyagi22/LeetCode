@@ -21,6 +21,7 @@
 | [0704-binary-search](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0989-add-to-array-form-of-integer](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -68,6 +69,7 @@
 | [0069-sqrtx](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0989-add-to-array-form-of-integer](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
