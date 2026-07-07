@@ -157,6 +157,7 @@
 | [0012-integer-to-roman](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0242-valid-anagram) |
@@ -194,6 +195,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0022-generate-parentheses) |
 | [0410-split-array-largest-sum](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0410-split-array-largest-sum) |
 ## Divide and Conquer
 |  |
@@ -271,4 +273,8 @@
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0371-sum-of-two-integers) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
