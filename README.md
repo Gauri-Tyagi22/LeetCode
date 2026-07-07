@@ -28,6 +28,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1539-kth-missing-positive-number](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1901-find-a-peak-element-ii](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1901-find-a-peak-element-ii) |
@@ -108,6 +109,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1539-kth-missing-positive-number](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -136,6 +138,7 @@
 | [0242-valid-anagram](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1288-remove-covered-intervals](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1288-remove-covered-intervals) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3467-transform-array-by-parity](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3467-transform-array-by-parity) |
@@ -223,6 +226,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Trie
