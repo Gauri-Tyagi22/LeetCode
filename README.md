@@ -14,6 +14,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0090-subsets-ii](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0090-subsets-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0162-find-peak-element) |
@@ -285,6 +286,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0090-subsets-ii) |
 | [0371-sum-of-two-integers](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0371-sum-of-two-integers) |
 ## Backtracking
 |  |
@@ -293,6 +295,7 @@
 | [0039-combination-sum](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0090-subsets-ii) |
 ## Brainteaser
 |  |
 | ------- |
