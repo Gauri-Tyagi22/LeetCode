@@ -75,6 +75,7 @@
 | [0367-valid-perfect-square](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0989-add-to-array-form-of-integer](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
+| [1025-divisor-game](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1025-divisor-game) |
 | [1903-largest-odd-number-in-string](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1922-count-good-numbers) |
 | [2965-find-missing-and-repeated-values](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -202,6 +203,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0022-generate-parentheses) |
 | [0410-split-array-largest-sum](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [1025-divisor-game](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1025-divisor-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -286,4 +288,12 @@
 | [0022-generate-parentheses](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0078-subsets) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
