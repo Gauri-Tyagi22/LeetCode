@@ -80,6 +80,7 @@
 | [1922-count-good-numbers](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1922-count-good-numbers) |
 | [2965-find-missing-and-repeated-values](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -179,6 +180,7 @@
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2278-percentage-of-letter-in-string](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2278-percentage-of-letter-in-string) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -191,6 +193,7 @@
 | [0410-split-array-largest-sum](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2270-number-of-ways-to-split-array](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2270-number-of-ways-to-split-array) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Greedy
 |  |
 | ------- |
