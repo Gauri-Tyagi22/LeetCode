@@ -85,6 +85,7 @@
 | [0013-roman-to-integer](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0069-sqrtx) |
+| [0282-expression-add-operators](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0282-expression-add-operators) |
 | [0367-valid-perfect-square](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0989-add-to-array-form-of-integer](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
@@ -190,6 +191,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0242-valid-anagram) |
+| [0282-expression-add-operators](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0282-expression-add-operators) |
 | [0387-first-unique-character-in-a-string](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -328,6 +330,7 @@
 | [0090-subsets-ii](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0282-expression-add-operators) |
 ## Brainteaser
 |  |
 | ------- |
