@@ -242,6 +242,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Stack
 |  |
@@ -317,6 +318,7 @@
 | [0029-divide-two-integers](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0090-subsets-ii) |
+| [0191-number-of-1-bits](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
