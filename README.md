@@ -89,6 +89,7 @@
 | [0231-power-of-two](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0282-expression-add-operators) |
 | [0326-power-of-three](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0989-add-to-array-form-of-integer](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
@@ -180,6 +181,7 @@
 | [0231-power-of-two](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0342-power-of-four) |
 | [1922-count-good-numbers](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1922-count-good-numbers) |
 ## String
 |  |
@@ -322,6 +324,7 @@
 | [0090-subsets-ii](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Backtracking
