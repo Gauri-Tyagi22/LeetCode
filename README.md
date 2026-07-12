@@ -329,6 +329,7 @@
 | [0231-power-of-two](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Backtracking
 |  |
