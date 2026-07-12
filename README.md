@@ -67,6 +67,7 @@
 | [0205-isomorphic-strings](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -165,6 +166,7 @@
 | ------- |
 | [0148-sort-list](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1288-remove-covered-intervals](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -204,6 +206,7 @@
 | [0242-valid-anagram](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0282-expression-add-operators) |
 | [0387-first-unique-character-in-a-string](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0796-rotate-string](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0796-rotate-string) |
@@ -330,6 +333,7 @@
 | [0231-power-of-two](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0389-find-the-difference) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
