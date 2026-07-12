@@ -50,6 +50,7 @@
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3467-transform-array-by-parity](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3467-transform-array-by-parity) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -78,6 +79,7 @@
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Math
 |  |
@@ -335,6 +337,7 @@
 | [0371-sum-of-two-integers](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0389-find-the-difference) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Backtracking
