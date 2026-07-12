@@ -99,6 +99,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1922-count-good-numbers) |
 | [2965-find-missing-and-repeated-values](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Matrix
@@ -330,6 +331,7 @@
 | [0342-power-of-four](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Backtracking
 |  |
