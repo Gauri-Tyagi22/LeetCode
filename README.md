@@ -384,4 +384,8 @@
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
