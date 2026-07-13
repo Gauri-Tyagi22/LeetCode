@@ -22,6 +22,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0162-find-peak-element) |
+| [0204-count-primes](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0260-single-number-iii) |
@@ -92,6 +93,7 @@
 | [0029-divide-two-integers](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0069-sqrtx) |
+| [0204-count-primes](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0282-expression-add-operators) |
 | [0326-power-of-three](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0326-power-of-three) |
@@ -389,5 +391,10 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
