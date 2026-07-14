@@ -229,6 +229,7 @@
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2278-percentage-of-letter-in-string](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2278-percentage-of-letter-in-string) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
@@ -237,6 +238,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Prefix Sum
 |  |
