@@ -44,6 +44,7 @@
 | [1539-kth-missing-positive-number](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1901-find-a-peak-element-ii](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1901-find-a-peak-element-ii) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -82,6 +83,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -152,6 +154,7 @@
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1539-kth-missing-positive-number](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1901-find-a-peak-element-ii) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -241,6 +244,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
