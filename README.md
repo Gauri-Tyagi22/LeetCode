@@ -59,6 +59,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3467-transform-array-by-parity](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3467-transform-array-by-parity) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -96,6 +97,7 @@
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Math
 |  |
@@ -120,6 +122,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1922-count-good-numbers) |
 | [2965-find-missing-and-repeated-values](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -170,6 +173,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Counting
@@ -181,6 +185,7 @@
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3467-transform-array-by-parity](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3467-transform-array-by-parity) |
 ## Interactive
 |  |
@@ -274,6 +279,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2270-number-of-ways-to-split-array](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2270-number-of-ways-to-split-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Greedy
 |  |
@@ -438,6 +444,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0204-count-primes) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -445,4 +452,8 @@
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
