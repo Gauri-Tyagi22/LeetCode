@@ -260,6 +260,7 @@
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2278-percentage-of-letter-in-string](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2278-percentage-of-letter-in-string) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
@@ -457,6 +458,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Number Theory
 |  |
 | ------- |
