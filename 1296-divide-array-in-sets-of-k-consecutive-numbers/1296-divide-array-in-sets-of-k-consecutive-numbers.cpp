@@ -1,6 +1,7 @@
 class Solution {
 public:
     bool isPossibleDivide(vector<int>& nums, int k) {
+        if(nums.size()%k!=0) return false;
          map<int,int>mp;
         for(int x:nums) mp[x]++;
         for(auto it:mp){
