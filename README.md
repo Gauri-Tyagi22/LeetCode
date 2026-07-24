@@ -38,6 +38,7 @@
 | [0704-binary-search](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0704-binary-search) |
 | [0846-hand-of-straights](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0846-hand-of-straights) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0860-lemonade-change](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0989-add-to-array-form-of-integer](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
@@ -323,6 +324,7 @@
 | [0455-assign-cookies](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0846-hand-of-straights) |
+| [0860-lemonade-change](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1903-largest-odd-number-in-string) |
