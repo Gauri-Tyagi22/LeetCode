@@ -149,6 +149,7 @@
 | [3370-smallest-number-with-all-set-bits](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -239,6 +240,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3467-transform-array-by-parity](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3467-transform-array-by-parity) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
 |  |
