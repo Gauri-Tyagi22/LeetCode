@@ -37,6 +37,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0621-task-scheduler](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0704-binary-search) |
 | [0846-hand-of-straights](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0846-hand-of-straights) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -137,6 +138,7 @@
 | [0342-power-of-four](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1025-divisor-game](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1025-divisor-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -231,6 +233,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0846-hand-of-straights](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0846-hand-of-straights) |
 | [1288-remove-covered-intervals](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
