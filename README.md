@@ -40,6 +40,7 @@
 | [0621-task-scheduler](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0735-asteroid-collision) |
 | [0846-hand-of-straights](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0846-hand-of-straights) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0860-lemonade-change) |
@@ -388,6 +389,7 @@
 | [0496-next-greater-element-i](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0735-asteroid-collision](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -553,6 +555,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0735-asteroid-collision) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
