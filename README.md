@@ -391,6 +391,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0232-implement-queue-using-stacks) |
@@ -541,6 +542,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0079-word-search) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [2685-count-the-number-of-complete-components](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -600,6 +602,7 @@
 ## Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -608,6 +611,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
