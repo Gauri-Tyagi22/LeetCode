@@ -547,6 +547,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [2685-count-the-number-of-complete-components](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Enumeration
 |  |
@@ -602,6 +603,7 @@
 ## Tree
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
@@ -611,6 +613,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
