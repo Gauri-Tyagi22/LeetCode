@@ -46,6 +46,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0989-add-to-array-form-of-integer](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
@@ -147,6 +148,7 @@
 | [0371-sum-of-two-integers](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0486-predict-the-winner](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1025-divisor-game](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1025-divisor-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -373,6 +375,7 @@
 | [0410-split-array-largest-sum](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0877-stone-game](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [1025-divisor-game](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1025-divisor-game) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -526,6 +529,7 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1025-divisor-game) |
 ## Union-Find
 |  |
