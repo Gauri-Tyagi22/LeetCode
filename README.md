@@ -58,6 +58,7 @@
 | [1288-remove-covered-intervals](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1406-stone-game-iii](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -152,6 +153,7 @@
 | [0989-add-to-array-form-of-integer](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1025-divisor-game](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1025-divisor-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1406-stone-game-iii](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1406-stone-game-iii) |
 | [1903-largest-odd-number-in-string](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -378,6 +380,7 @@
 | [0877-stone-game](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [1025-divisor-game](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1025-divisor-game) |
+| [1406-stone-game-iii](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1406-stone-game-iii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Divide and Conquer
@@ -531,6 +534,7 @@
 | [0486-predict-the-winner](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1025-divisor-game) |
+| [1406-stone-game-iii](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1406-stone-game-iii) |
 ## Union-Find
 |  |
 | ------- |
