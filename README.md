@@ -65,6 +65,7 @@
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1539-kth-missing-positive-number](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1901-find-a-peak-element-ii](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
@@ -209,6 +210,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1539-kth-missing-positive-number](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1539-kth-missing-positive-number) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1901-find-a-peak-element-ii](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -259,6 +261,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3467-transform-array-by-parity](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3467-transform-array-by-parity) |
@@ -334,6 +337,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -346,6 +350,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2270-number-of-ways-to-split-array](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2270-number-of-ways-to-split-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -364,6 +369,7 @@
 | [0860-lemonade-change](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
