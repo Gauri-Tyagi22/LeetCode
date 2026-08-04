@@ -562,6 +562,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -627,6 +628,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -639,10 +641,15 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
