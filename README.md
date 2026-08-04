@@ -382,6 +382,7 @@
 | [0022-generate-parentheses](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0055-jump-game) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0410-split-array-largest-sum](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0486-predict-the-winner) |
@@ -561,6 +562,7 @@
 | [0079-word-search](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
@@ -627,6 +629,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -640,6 +643,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -651,5 +655,6 @@
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
