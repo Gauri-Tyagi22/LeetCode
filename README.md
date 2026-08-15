@@ -209,6 +209,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0162-find-peak-element) |
+| [0222-count-complete-tree-nodes](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0367-valid-perfect-square) |
@@ -535,6 +536,7 @@
 | [0078-subsets](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0342-power-of-four) |
@@ -688,6 +690,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -711,6 +714,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0543-diameter-of-binary-tree) |
