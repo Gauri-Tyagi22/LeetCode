@@ -605,6 +605,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0079-word-search) |
+| [0098-validate-binary-search-tree](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -693,6 +694,7 @@
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
@@ -720,6 +722,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -727,6 +730,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
