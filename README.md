@@ -21,6 +21,7 @@
 | [0079-word-search](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0090-subsets-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0135-candy](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -103,6 +104,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0037-sudoku-solver) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -427,6 +429,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -689,6 +692,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -714,6 +718,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
