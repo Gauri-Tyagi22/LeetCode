@@ -610,11 +610,13 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0130-surrounded-regions) |
+| [0785-is-graph-bipartite](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [2685-count-the-number-of-complete-components](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [2685-count-the-number-of-complete-components](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -639,6 +641,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0785-is-graph-bipartite](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -657,6 +660,7 @@
 | [0542-01-matrix](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0542-01-matrix) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0785-is-graph-bipartite](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -836,4 +840,12 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
