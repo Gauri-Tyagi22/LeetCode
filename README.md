@@ -39,6 +39,7 @@
 | [0496-next-greater-element-i](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0542-01-matrix) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0621-task-scheduler](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -205,6 +206,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0542-01-matrix](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0542-01-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
@@ -424,6 +426,7 @@
 | [0131-palindrome-partitioning](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0410-split-array-largest-sum](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0486-predict-the-winner) |
+| [0542-01-matrix](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
@@ -646,6 +649,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0542-01-matrix](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0542-01-matrix) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
