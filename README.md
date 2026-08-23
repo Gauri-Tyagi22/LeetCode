@@ -187,6 +187,7 @@
 | [1510-stone-game-iv](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1510-stone-game-iv) |
 | [1903-largest-odd-number-in-string](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1922-count-good-numbers) |
+| [1927-sum-game](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2029-stone-game-ix) |
 | [2965-find-missing-and-repeated-values](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -357,6 +358,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1927-sum-game) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2062-count-vowel-substrings-of-a-string) |
@@ -420,6 +422,7 @@
 | [1386-cinema-seat-allocation](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2029-stone-game-ix) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -617,6 +620,7 @@
 | [1140-stone-game-ii](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2029-stone-game-ix) |
 ## Union-Find
 |  |
