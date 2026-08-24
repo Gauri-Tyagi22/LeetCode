@@ -170,6 +170,7 @@
 | [0029-divide-two-integers](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0282-expression-add-operators) |
@@ -440,6 +441,7 @@
 | [0022-generate-parentheses](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0410-split-array-largest-sum](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -902,4 +904,8 @@
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0802-find-eventual-safe-states) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
