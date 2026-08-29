@@ -86,6 +86,7 @@
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -310,6 +311,7 @@
 | [1636-sort-array-by-increasing-frequency](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3467-transform-array-by-parity](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3467-transform-array-by-parity) |
@@ -645,6 +647,7 @@
 | [0130-surrounded-regions](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0130-surrounded-regions) |
 | [0785-is-graph-bipartite](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [2685-count-the-number-of-complete-components](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
