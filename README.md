@@ -581,6 +581,7 @@
 | [0355-design-twitter](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0355-design-twitter) |
 | [0876-middle-of-the-linked-list](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Merge Sort
 |  |
