@@ -38,6 +38,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -464,6 +465,7 @@
 | [0410-split-array-largest-sum](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0877-stone-game) |
@@ -633,6 +635,7 @@
 | [0216-combination-sum-iii](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0282-expression-add-operators) |
+| [0494-target-sum](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0494-target-sum) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Brainteaser
 |  |
@@ -937,8 +940,10 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Gauri-Tyagi22/LeetCode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
